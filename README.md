@@ -9,7 +9,7 @@ __The proposed pipline__ detects barcode, rotate barcode and debluring barcode i
 ## Content of the Repository
 __oriented_barcode_detection_dataset.zip__ contains the bounding box annotation, image name and source dataset for traning RDD model <br />
 __barcode_image_debluring_dataset.zip__ contains the image name and source dataset for training deblurGANv2 model  <br />
-__rotate.py__ is the scirpt to rotate the original images  <br />
+__rotate.py__ is the scirpt to rotate barocde images  <br />
 
 ## Source Datasets:
 Muenster: https://www.uni-muenster.de/PRIA/forschung/index.shtml and https://github.com/rohrlaf/SlaRle.js<br />
