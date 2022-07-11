@@ -9,7 +9,8 @@ __The proposed pipeline__ takes barcode images as input and performs  barcode de
 ## Content of the Repository
 __oriented_barcode_detection_dataset.zip__ contains the image name and its source dataset, its bounding box annotation for images used to train and evaluate the RDD model <br />
 __barcode_image_debluring_dataset.zip__ contains the image name and its source dataset for images used to train the deblurGAN-v2 model  <br />
-__rotate.py__ is the scirpt used to rotate barcode images based on the rotation angle obtained from the RDD model  <br />
+__rotate.py__ is the scirpt used to rotate barcode images <br />
+<!--__rotate.py__ is the scirpt used to rotate barcode images based on the rotation angle obtained from the RDD model  <br />-->
 
 ## Source Datasets:
 Muenster: https://www.uni-muenster.de/PRIA/forschung/index.shtml and https://github.com/rohrlaf/SlaRle.js<br />
